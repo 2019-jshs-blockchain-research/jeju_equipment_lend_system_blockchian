@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "type": "이온 크로마토그래피(IC)",
+    "picture": "images/0.jpg",
+    "area": "심화기자재실",
+    "count": 1,
+    "inform" : "ic",
+    "price": 0.0005
+  },
+  {
+    "id": 2,
+    "type": "X선 형광분석기",
+    "picture": "images/1.jpg",
+    "area": "물리실험실",
+    "count": 1,
+    "inform" : "x선 형광분석기",
+    "price": 0.0005
+  },
+  {
+    "id": 3,
+    "type": "천체망원경",
+    "picture": "images/2.jpeg",
+    "area": "망원경실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 4,
+    "type": "HLPC",
+    "picture": "images/3.jpg",
+    "area": "화학실험실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 5,
+    "type": "회전진공원심농축기",
+    "picture": "images/4.jpg",
+    "area": "화학실험실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 6,
+    "type": "비색계",
+    "picture": "images/5.jpg",
+    "area": "물리실험실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 7,
+    "type": "착순판정카메라",
+    "picture": "images/6.jpg",
+    "area": "물리실험실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 8,
+    "type": "도립현미경",
+    "picture": "images/7.jpg",
+    "area": "생물실험실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 9,
+    "type": "주사전자현미경",
+    "picture": "images/8.jpg",
+    "area": "생물실험실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  },
+  {
+    "id": 10,
+    "type": "레이저커터기",
+    "picture": "images/9.jpg",
+    "area": "무한상상실",
+    "count": 1,
+    "inform" : "",
+    "price": 0.0005
+  }
+]
